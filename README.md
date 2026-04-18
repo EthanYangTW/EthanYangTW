@@ -17,9 +17,8 @@
 ### 🧠 About Me
 
 - 🎓 Senior at **St. Dominic Catholic High School**, Kaohsiung, Taiwan
-- 🔬 Researching **weight-sharing quantization**, **parameter-efficient models**, and **LM fine-tuning**
-- 🛠️ Building **[tinyloop](https://github.com/EthanYangTW/tinyloop)** — a minimal CUDA training loop
-- 🛡️ Interests: machine learning systems, cybersecurity, low-level GPU work
+- 🛡️ Interests: machine learning, cybersecurity, language-model fine-tuning
+- ⚡ Always exploring new ideas and sharpening the craft
 - 📫 Reach me via the links below — I'll update them soon
 
 ---
