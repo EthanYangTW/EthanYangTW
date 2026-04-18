@@ -17,7 +17,7 @@
 ### 🧠 About Me
 
 - 🎓 Senior at **St. Dominic Catholic High School**, Kaohsiung, Taiwan
-- 🎉 Accepted to **Feng Chia University 國際班** (International Program) — 2026
+- 🎉 Accepted to **Feng Chia University — 資訊工程 國際班** (CS International Program) — 2026
 - 🌉 2 years at Feng Chia in Taiwan → 2 years at **San Francisco State University** (2028)
 - 🛡️ Interests: machine learning, cybersecurity, language-model fine-tuning
 - ⚡ Always exploring new ideas and sharpening the craft
