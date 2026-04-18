@@ -52,6 +52,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanYangTW&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Activity graph" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthanYangTW&theme=github_dark" alt="Profile summary — includes total lines of code" />
+
 </div>
 
 ---
